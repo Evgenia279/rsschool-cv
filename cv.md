@@ -1,6 +1,6 @@
 # Group JS/FE Pre-School 2024Q2
 ---
-## Evgenia 
+## Evgenia Ch
 
 ###Contact information:
 
