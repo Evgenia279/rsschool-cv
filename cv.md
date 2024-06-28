@@ -2,17 +2,17 @@
 ---
 ## Evgenia Ch
 
-###Contact information:
+### Contact information:
 
 Telegram – Evgenia Ch
 
-###Main skills:
+### Main skills:
 - Conscientious
 - Responsible
 - Sociable and able to work in a team
 - Good communicate with people
 
-###Completed courses:
+### Completed courses:
 1. HTML5/ CSS3
 2. Bootstrap
 3. Java Script – in process
